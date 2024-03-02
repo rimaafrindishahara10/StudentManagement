@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: #e2e2e2;
+}
+.card{
+    margin-left: 30%;
+    margin-top: 5px;
+}
+.table th, td{
+    text-align: center;
+}
+.table th{
+    background: azure;
+    font-size: 20px;
+}
+.allButton a{
+    color: white;
+    margin-left: 5px;
+}
+.reportColor a{
+    color: white;
+}
+#fromOne{
+    margin: 4px;
+
+}
+#fromOne button{
+   background: #2b4ad9;
+
+}
